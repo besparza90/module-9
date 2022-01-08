@@ -1,8 +1,8 @@
-# readme generator
+# reame generator
 
   ## Desciption
 
-  it makes a readme
+  makes a readme
 
   ## Table of Contents
 
@@ -15,11 +15,11 @@
 
   ## Installation
 
-  inquirer install
+  inquirer
 
   ## Usage
 
-  to make a readme file
+  to make a readme
 
   ##Contributing
 
@@ -27,7 +27,7 @@
 
   ##Test
 
-  with node index
+  node index
 
 
 ## Questions
