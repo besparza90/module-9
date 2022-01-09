@@ -1,33 +1,41 @@
-# reame generator
+# readme generator
+
+  ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)
 
   ## Desciption
 
-  makes a readme
+  it allows you to make a readme
 
   ## Table of Contents
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
+  - 
+* [License](#license)
+
   - [Contributing](#contributing)
   - [Test](#tests)
   - [Questions](#questions)
 
   ## Installation
 
-  inquirer
+  inquierer
 
   ## Usage
 
-  to make a readme
+  ti make a readme
 
-  ##Contributing
+  ## License
+      
+      Made under the MIT license.
+
+  ## Contributing
 
   brian
 
-  ##Test
+  ## Test
 
-  node index
+  with node index
 
 
 ## Questions
