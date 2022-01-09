@@ -4,26 +4,24 @@
 
   ## Desciption
 
-  it allows you to make a readme
+  it makes a readme
 
   ## Table of Contents
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - 
-* [License](#license)
-
+  - - [License](#license)
   - [Contributing](#contributing)
   - [Test](#tests)
   - [Questions](#questions)
 
   ## Installation
 
-  inquierer
+  with inquierer
 
   ## Usage
 
-  ti make a readme
+  to easily make a readme
 
   ## License
       
