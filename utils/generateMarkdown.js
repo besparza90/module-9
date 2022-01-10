@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license !== "None") {
     return (
-      `[License](https://img.shields.io/static/v1?label=license&message=${license}&color=red)`
+      `[${license}](https://img.shields.io/static/v1?label=license&message=${license}&color=red)`
     )
   }
   return ''
@@ -26,7 +26,7 @@ function renderLicenseSection(license) {
     return (
       `## License
       
-      Made under the ${license} license.`
+      Made under the ${license} license}.`
 
     )
   }
@@ -38,6 +38,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ${renderLicenseBadge(data.license)}
+  ${renderLicenseLink(data.license)}
 
   ## Desciption
 
@@ -47,7 +48,7 @@ function generateMarkdown(data) {
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - ${renderLicenseLink(data.license)}
+  - [License](#license)
   - [Contributing](#contributing)
   - [Test](#tests)
   - [Questions](#questions)
