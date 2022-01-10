@@ -26,7 +26,7 @@ function renderLicenseSection(license) {
     return (
       `## License
       
-      Made under the ${license} licens}.`
+      Made under the ${license} license}.`
 
     )
   }
