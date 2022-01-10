@@ -1,31 +1,31 @@
 # readme generator
 
-  ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Apache-2.0-red.svg)
 
   ## Desciption
 
-  it makes a readme
+  it takes user input to make a readme
 
   ## Table of Contents
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - - [License](#license)
+  - [License](#license)
   - [Contributing](#contributing)
   - [Test](#tests)
   - [Questions](#questions)
 
   ## Installation
 
-  with inquierer
+  inquierer
 
   ## Usage
 
-  to easily make a readme
+  to make a readme
 
   ## License
       
-      Made under the MIT license.
+      Made under the Apache-2.0 license.
 
   ## Contributing
 
@@ -33,7 +33,7 @@
 
   ## Test
 
-  with node index
+  node index
 
 
 ## Questions
