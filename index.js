@@ -45,7 +45,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "Which license does your project use?",
-        choices: ["AGPL v3", "MPL-2.0", "Apache-2.0", "MIT", "None"]
+        choices: ["AGPL-v3", "MPL-2.0", "Apache-2.0", "MIT", "None"]
     },
 
     {

@@ -1,10 +1,10 @@
-# readme generator
+# dhdhdhd
 
-  ![GitHub license](https://img.shields.io/badge/license-Apache-2.0-red.svg)
+  ![GitHub license](https://img.shields.io/badge/license-AGPL-v3-red.svg)
 
   ## Desciption
 
-  it takes user input to make a readme
+  sjsjss
 
   ## Table of Contents
 
@@ -17,23 +17,23 @@
 
   ## Installation
 
-  inquierer
+  snsnsn
 
   ## Usage
 
-  to make a readme
+  snsnsn
 
   ## License
       
-      Made under the Apache-2.0 license.
+      Made under the AGPL-v3 license.
 
   ## Contributing
 
-  brian
+  ssnss
 
   ## Test
 
-  node index
+  jsnsns
 
 
 ## Questions
