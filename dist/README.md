@@ -1,11 +1,11 @@
-# aaa
+# README Generator
 
   ![License](https://img.shields.io/badge/license-GPLv3-red)
   [GPLv3](https://img.shields.io/static/v1?label=license&message=GPLv3&color=red)
 
   ## Desciption
 
-  qqq
+  Takes user input to build a README
 
   ## Table of Contents
 
@@ -18,11 +18,11 @@
 
   ## Installation
 
-  zzz
+  Inquirer
 
   ## Usage
 
-  xxx
+  To easily build a README
 
   ## License
       
@@ -30,13 +30,13 @@
 
   ## Contributing
 
-  sss
+  Brian
 
   ## Test
 
-  www
+  node index
 
 
 ## Questions
 
-  For any questions, reach me at esparzabrian90@gmail.com or [besoarza90](https://github.com/besoarza90/)
+  For any questions, reach me at esparzabrian90@gmail.com or [besparza90](https://github.com/besparza90/)
